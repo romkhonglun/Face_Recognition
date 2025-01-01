@@ -49,6 +49,7 @@ faces/
 ```
 
 Those file names will be displayed while real-time inference.
+
 4. Download pre-trained weights from [here](https://drive.google.com/drive/folders/1v5r_wdYr1S-lStQelnaKEQb_MYKdNUSz?usp=drive_link)
 ## Usage
 
