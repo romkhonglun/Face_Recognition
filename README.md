@@ -1,6 +1,5 @@
 ## Reimplementation ArcFace and SCRFD
 - [ArcFace](https://www.kaggle.com/code/nguynhucng/arcface)
-- [SCRFD]()
 
 ## Introduction
 Project folder structure:
